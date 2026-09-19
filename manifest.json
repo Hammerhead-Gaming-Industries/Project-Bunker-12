@@ -1,6 +1,6 @@
 {
-  "name": "name",
-  "short_name": "shortname",
+  "name": "Project Bunker 12",
+  "short_name": "Bunker12",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#000000",
